@@ -1,0 +1,125 @@
+WARNING - 2023-11-30 20:13:58 --> [DEPRECATED] Creation of dynamic property App\Libraries\DataTables::$db is deprecated in APPPATH\Libraries\DataTables.php on line 9.
+ 1 APPPATH\Controllers\Home.php(12): App\Libraries\DataTables->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-30 20:13:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$DataTables is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-30 20:13:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-30 20:14:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-30 20:14:05 --> [DEPRECATED] Creation of dynamic property App\Libraries\DataTables::$db is deprecated in APPPATH\Libraries\DataTables.php on line 9.
+ 1 APPPATH\Controllers\Home.php(12): App\Libraries\DataTables->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-30 20:14:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$DataTables is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-30 20:14:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-30 20:14:09 --> [DEPRECATED] Creation of dynamic property App\Libraries\DataTables::$db is deprecated in APPPATH\Libraries\DataTables.php on line 9.
+ 1 APPPATH\Controllers\Home.php(12): App\Libraries\DataTables->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-30 20:14:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$DataTables is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-30 20:15:08 --> [DEPRECATED] Creation of dynamic property App\Libraries\DataTables::$db is deprecated in APPPATH\Libraries\DataTables.php on line 9.
+ 1 APPPATH\Controllers\Home.php(12): App\Libraries\DataTables->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-30 20:15:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$DataTables is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-30 20:15:12 --> [DEPRECATED] Creation of dynamic property App\Libraries\DataTables::$db is deprecated in APPPATH\Libraries\DataTables.php on line 9.
+ 1 APPPATH\Controllers\Home.php(12): App\Libraries\DataTables->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-30 20:15:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$DataTables is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-30 20:15:26 --> [DEPRECATED] Creation of dynamic property App\Libraries\DataTables::$db is deprecated in APPPATH\Libraries\DataTables.php on line 9.
+ 1 APPPATH\Controllers\Home.php(12): App\Libraries\DataTables->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-30 20:15:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$DataTables is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-30 20:15:28 --> [DEPRECATED] Creation of dynamic property App\Libraries\DataTables::$db is deprecated in APPPATH\Libraries\DataTables.php on line 9.
+ 1 APPPATH\Controllers\Home.php(12): App\Libraries\DataTables->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-30 20:15:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$DataTables is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-30 20:15:29 --> [DEPRECATED] Creation of dynamic property App\Libraries\DataTables::$db is deprecated in APPPATH\Libraries\DataTables.php on line 9.
+ 1 APPPATH\Controllers\Home.php(12): App\Libraries\DataTables->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-30 20:15:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$DataTables is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-30 20:15:31 --> [DEPRECATED] Creation of dynamic property App\Libraries\DataTables::$db is deprecated in APPPATH\Libraries\DataTables.php on line 9.
+ 1 APPPATH\Controllers\Home.php(12): App\Libraries\DataTables->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-30 20:15:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$DataTables is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-30 20:15:33 --> [DEPRECATED] Creation of dynamic property App\Libraries\DataTables::$db is deprecated in APPPATH\Libraries\DataTables.php on line 9.
+ 1 APPPATH\Controllers\Home.php(12): App\Libraries\DataTables->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-30 20:15:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$DataTables is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-30 20:41:58 --> [DEPRECATED] Creation of dynamic property App\Libraries\DataTables::$db is deprecated in APPPATH\Libraries\DataTables.php on line 9.
+ 1 APPPATH\Controllers\Home.php(12): App\Libraries\DataTables->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-30 20:41:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$DataTables is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-30 20:41:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

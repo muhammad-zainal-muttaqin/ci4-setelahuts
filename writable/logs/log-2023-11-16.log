@@ -1,0 +1,281 @@
+INFO - 2023-11-16 06:21:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:22:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:24:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:24:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:24:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:24:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:24:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:25:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:26:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:26:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:26:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:26:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:31:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:34:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-16 06:34:49 --> Invalid file: "sidebar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('sidebar.php')
+ 2 SYSTEMPATH\View\View.php(452): CodeIgniter\View\View->render('sidebar', null, true)
+ 3 APPPATH\Views\template\main.php(51): CodeIgniter\View\View->include('sidebar')
+ 4 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4-setelahuts\\app\\Views\\template\\main.php')
+ 5 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('template/main', [], true)
+ 7 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('Home/sidebar', [], true)
+ 8 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Home/index', [], true)
+ 9 APPPATH\Controllers\Home.php(17): view('Home/index', [...])
+10 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+11 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-16 06:35:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-16 06:35:29 --> Allowed memory size of 536870912 bytes exhausted (tried to allocate 32768 bytes)
+in APPPATH\Views\Home\sidebar.php on line 1.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2023-11-16 06:35:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:35:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-16 06:35:51 --> Allowed memory size of 536870912 bytes exhausted (tried to allocate 32768 bytes)
+in APPPATH\Views\Home\sidebar.php on line 1.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2023-11-16 06:37:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-16 06:37:22 --> Allowed memory size of 536870912 bytes exhausted (tried to allocate 32768 bytes)
+in APPPATH\Views\Home\sidebar.php on line 1.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2023-11-16 06:37:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-16 06:37:59 --> Allowed memory size of 1073741824 bytes exhausted (tried to allocate 32768 bytes)
+in APPPATH\Views\Home\sidebar.php on line 1.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2023-11-16 06:37:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-16 06:38:14 --> Allowed memory size of 1073741824 bytes exhausted (tried to allocate 32768 bytes)
+in APPPATH\Views\Home\sidebar.php on line 1.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2023-11-16 06:41:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:41:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:41:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:41:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:42:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:43:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:43:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:43:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:43:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:43:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:46:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:46:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:46:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:46:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:47:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-16 06:47:40 --> include(Home/sidebar.php): Failed to open stream: No such file or directory
+in APPPATH\Views\template\main.php on line 51.
+ 1 APPPATH\Views\template\main.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(Home/sidebar.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\ci4-setelahuts\\app\\Views\\template\\main.php', 51)
+ 2 APPPATH\Views\template\main.php(51): include()
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4-setelahuts\\app\\Views\\template\\main.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('template/main', [], true)
+ 6 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Home/index', [], true)
+ 7 APPPATH\Controllers\Home.php(17): view('Home/index', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-16 06:48:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-16 06:48:19 --> Allowed memory size of 536870912 bytes exhausted (tried to allocate 32768 bytes)
+in APPPATH\Views\template\main.php on line 1.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2023-11-16 06:49:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-16 06:50:10 --> Allowed memory size of 536870912 bytes exhausted (tried to allocate 32768 bytes)
+in APPPATH\Views\template\main.php on line 1.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2023-11-16 06:50:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-16 06:50:56 --> Allowed memory size of 536870912 bytes exhausted (tried to allocate 32768 bytes)
+in APPPATH\Views\template\main.php on line 1.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2023-11-16 06:53:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-16 06:53:02 --> Invalid "memory_limit" setting. Invalid quantity "2048MB": unknown multiplier "B", interpreting as "2048" for backwards compatibility
+in APPPATH\Views\Home\index.php on line 4.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid "memory_limit" setting. Invalid quantity "2048MB": unknown multiplier "B", interpreting as "2048" for backwards compatibility', 'C:\\xampp\\htdocs\\ci4-setelahuts\\app\\Views\\Home\\index.php', 4)
+ 2 APPPATH\Views\Home\index.php(4): ini_set('memory_limit', '2048MB')
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4-setelahuts\\app\\Views\\Home\\index.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Home/index', [], true)
+ 6 APPPATH\Controllers\Home.php(17): view('Home/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-16 06:53:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-16 06:54:22 --> Allowed memory size of 2147483648 bytes exhausted (tried to allocate 32768 bytes)
+in APPPATH\Views\template\main.php on line 1.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2023-11-16 06:54:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-16 06:55:42 --> Allowed memory size of 2147483648 bytes exhausted (tried to allocate 6307840 bytes)
+in SYSTEMPATH\View\View.php on line 440.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2023-11-16 06:55:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:55:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 06:55:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 07:19:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:16:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:17:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:17:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:19:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:28:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:31:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:31:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:32:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:34:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:34:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:34:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:35:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:36:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:36:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:36:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:36:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:36:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:36:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:37:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:37:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:37:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:37:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:39:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:39:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:39:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:40:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-16 08:40:11 --> Invalid file: "sidebar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('sidebar.php')
+ 2 SYSTEMPATH\View\View.php(452): CodeIgniter\View\View->render('sidebar', null, true)
+ 3 APPPATH\Views\template\main.php(51): CodeIgniter\View\View->include('sidebar')
+ 4 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4-setelahuts\\app\\Views\\template\\main.php')
+ 5 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('template/main', [], true)
+ 7 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Home/index', [], true)
+ 8 APPPATH\Controllers\Home.php(17): view('Home/index', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+10 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+11 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-16 08:41:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-16 08:41:11 --> include(): http:// wrapper is disabled in the server configuration by allow_url_include=0
+in APPPATH\Views\template\main.php on line 51.
+ 1 APPPATH\Views\template\main.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(): http:// wrapper is disabled in the server configuration by allow_url_include=0', 'C:\\xampp\\htdocs\\ci4-setelahuts\\app\\Views\\template\\main.php', 51)
+ 2 APPPATH\Views\template\main.php(51): include()
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4-setelahuts\\app\\Views\\template\\main.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('template/main', [], true)
+ 6 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Home/index', [], true)
+ 7 APPPATH\Controllers\Home.php(17): view('Home/index', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-16 08:41:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-16 08:41:13 --> include(): http:// wrapper is disabled in the server configuration by allow_url_include=0
+in APPPATH\Views\template\main.php on line 51.
+ 1 APPPATH\Views\template\main.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(): http:// wrapper is disabled in the server configuration by allow_url_include=0', 'C:\\xampp\\htdocs\\ci4-setelahuts\\app\\Views\\template\\main.php', 51)
+ 2 APPPATH\Views\template\main.php(51): include()
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4-setelahuts\\app\\Views\\template\\main.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('template/main', [], true)
+ 6 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Home/index', [], true)
+ 7 APPPATH\Controllers\Home.php(17): view('Home/index', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-16 08:41:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-16 08:41:50 --> include(C:\xampp\htdocs\ci4-setelahuts\public\app/Views/Home/sidebar.php): Failed to open stream: No such file or directory
+in APPPATH\Views\template\main.php on line 51.
+ 1 APPPATH\Views\template\main.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(C:\\xampp\\htdocs\\ci4-setelahuts\\public\\app/Views/Home/sidebar.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\ci4-setelahuts\\app\\Views\\template\\main.php', 51)
+ 2 APPPATH\Views\template\main.php(51): include()
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4-setelahuts\\app\\Views\\template\\main.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('template/main', [], true)
+ 6 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Home/index', [], true)
+ 7 APPPATH\Controllers\Home.php(17): view('Home/index', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-16 08:41:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-16 08:41:51 --> include(C:\xampp\htdocs\ci4-setelahuts\public\app/Views/Home/sidebar.php): Failed to open stream: No such file or directory
+in APPPATH\Views\template\main.php on line 51.
+ 1 APPPATH\Views\template\main.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(C:\\xampp\\htdocs\\ci4-setelahuts\\public\\app/Views/Home/sidebar.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\ci4-setelahuts\\app\\Views\\template\\main.php', 51)
+ 2 APPPATH\Views\template\main.php(51): include()
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4-setelahuts\\app\\Views\\template\\main.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('template/main', [], true)
+ 6 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Home/index', [], true)
+ 7 APPPATH\Controllers\Home.php(17): view('Home/index', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-16 08:41:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-16 08:41:52 --> include(C:\xampp\htdocs\ci4-setelahuts\public\app/Views/Home/sidebar.php): Failed to open stream: No such file or directory
+in APPPATH\Views\template\main.php on line 51.
+ 1 APPPATH\Views\template\main.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(C:\\xampp\\htdocs\\ci4-setelahuts\\public\\app/Views/Home/sidebar.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\ci4-setelahuts\\app\\Views\\template\\main.php', 51)
+ 2 APPPATH\Views\template\main.php(51): include()
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4-setelahuts\\app\\Views\\template\\main.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('template/main', [], true)
+ 6 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Home/index', [], true)
+ 7 APPPATH\Controllers\Home.php(17): view('Home/index', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-16 08:43:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-16 08:43:26 --> Allowed memory size of 536870912 bytes exhausted (tried to allocate 32768 bytes)
+in APPPATH\Views\template\main.php on line 1.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2023-11-16 08:43:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:45:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:46:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:50:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:50:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:51:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:51:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:51:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:52:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:52:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:52:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-16 08:52:59 --> Invalid file: "Home/footer.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Home/footer.php')
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Home/footer', [], true)
+ 3 APPPATH\Views\Home\index.php(6): view('Home/footer')
+ 4 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4-setelahuts\\app\\Views\\Home\\index.php')
+ 5 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Home/index', [], true)
+ 7 APPPATH\Controllers\Home.php(17): view('Home/index', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-16 08:53:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-16 08:53:06 --> Invalid file: "Home/footer.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Home/footer.php')
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Home/footer', [], true)
+ 3 APPPATH\Views\Home\index.php(6): view('Home/footer')
+ 4 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4-setelahuts\\app\\Views\\Home\\index.php')
+ 5 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Home/index', [], true)
+ 7 APPPATH\Controllers\Home.php(17): view('Home/index', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-16 08:53:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:53:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:53:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:55:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:56:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 08:57:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 09:07:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 09:07:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 22:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 22:08:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 22:08:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-16 22:08:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
